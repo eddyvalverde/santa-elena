@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Catalog.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5060;https://localhost:7126",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
